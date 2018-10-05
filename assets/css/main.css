@@ -3613,6 +3613,7 @@ input, select, textarea {
 			letter-spacing: 0.225em;
 			text-transform: uppercase;
 			font-size: 1.5em;
+			line-height: 1.5em;
 		}
 
 			#banner p a {
