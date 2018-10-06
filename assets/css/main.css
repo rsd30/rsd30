@@ -2299,14 +2299,21 @@ input, select, textarea {
 		}
 
 			ul.icons.major li {
-				padding-right: 3.5em;
+				padding-right: 1em;
 			}
 
 				@media screen and (max-width: 736px) {
 
 					ul.icons.major li {
-						padding: 0 1em !important;
+						padding: 0 0.5em !important;
+						margin: 0.5em;
 					}
+
+				}
+
+
+				ul.icons.major img {
+					width: 40%;
 
 				}
 
@@ -2832,6 +2839,8 @@ input, select, textarea {
 
 			.wrapper.style1 header.major p {
 				color: #c8ece9;
+				font-size: 1.3em;
+				margin: 0 0 -1em 0;
 			}
 
 			.wrapper.style1 label {
