@@ -3623,6 +3623,7 @@ input, select, textarea {
 			text-transform: uppercase;
 			font-size: 1.5em;
 			line-height: 1.5em;
+			margin: 0;
 		}
 
 			#banner p a {
@@ -3699,7 +3700,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#banner {
-				padding: 7em 3em 5em 3em ;
+				padding: 9em 3em 8em 3em ;
 				height: auto;
 				min-height: 0;
 			}
